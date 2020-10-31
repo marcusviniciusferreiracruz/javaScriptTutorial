@@ -1,0 +1,23 @@
+{
+  "name": "javaScriptTutorial",
+  "version": "1.0.0",
+  "description": "Hello Mundo",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusviniciusferreiracruz/javaScriptTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcusviniciusferreiracruz/javaScriptTutorial/issues"
+  },
+  "homepage": "https://github.com/marcusviniciusferreiracruz/javaScriptTutorial#readme"
+}
